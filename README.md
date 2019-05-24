@@ -44,10 +44,10 @@ Now server is ready to use<br>
 
 ### Instruction to client use
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.<br>
 
 ### Screenshots
 
-![login](screenshots/1.PNG)
-![work](screenshots/2.PNG)
+![login](screenshots/1.PNG) <br><br>
+![work](screenshots/2.PNG)<br><br>
 ![server](screenshots/3.PNG)
