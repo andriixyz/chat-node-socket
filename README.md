@@ -48,6 +48,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Screenshots
 
-![login](screenshots/1.png)
-![work](screenshots/2.png)
-![server](screenshots/3.png)
+![login](screenshots/1.PNG)
+![work](screenshots/2.PNG)
+![server](screenshots/3.PNG)
